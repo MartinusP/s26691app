@@ -6,7 +6,15 @@
          xmlns="http://java.sun.com/xml/ns/javaee">
 
   <!-- Servlets -->
-  
+  <servlet>
+<servlet-name>S26691appService</servlet-name>
+<servlet-class>s26691app.server.KadryServiceImpl</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>S26691appService</servlet-name>
+<url-pattern>/s26691app/s26691app</url-pattern>
+</servlet-mapping>
   
   
   <!-- Default page to serve -->

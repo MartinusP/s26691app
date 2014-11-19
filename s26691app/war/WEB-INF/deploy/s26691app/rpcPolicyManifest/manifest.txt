@@ -1,2 +1,3 @@
 # Module s26691app
 # RPC service class, partial path of RPC policy file
+s26691app.client.S26691appService, 7F2E9324E262C167E1E61F5CFC36A39A.gwt.rpc
